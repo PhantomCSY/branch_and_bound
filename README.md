@@ -1,7 +1,7 @@
 # branch_and_bound
 This program aims at applying branch &amp; bound algorithm to solve ILP problem in Python. 
 
-Please note the function is built on Python 3.x and rely on SciPy and Numpy.
+Please note the function is built on Python 3.x and relies on SciPy and Numpy.
 
 To use the function, simply import it from the file:
 import branch_and_bound from branch_and_bound
